@@ -1,0 +1,1 @@
+[H]C1=C([H])c2c([H])nc(nc2N(C1=O)c1c([H])c([H])c([H])c([H])c1[H])N([H])c1c([H])c([H])c(c([H])c1[H])N(C([H])([H])[H])C([H])([H])C([H])([H])N(C([H])([H])[H])C([H])([H])[H]

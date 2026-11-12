@@ -1,0 +1,1 @@
+Cc1c(cc(cn1)C(NCCN1CCCC1(C)C)=O)Nc1c2cnc(Nc3cnn(C)c3)nc2n(C)n1

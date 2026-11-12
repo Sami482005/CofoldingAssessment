@@ -1,0 +1,1 @@
+Cc1cc2c(C(=C(C(N2)=O)N)c2ccc(c3c2c[nH]n3)F)c(n1)[Cl]

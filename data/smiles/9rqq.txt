@@ -1,0 +1,1 @@
+[H]c1c([H])c(c([H])c2C(N([H])c3c(c12)nnn3C([H])([H])c1c([H])c([H])c(c([H])c1[H])C([H])([H])C([H])([H])[H])=O)F

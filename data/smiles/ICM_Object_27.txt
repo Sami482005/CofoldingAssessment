@@ -1,0 +1,1 @@
+CCNC(C[C@H]1c2nnc(C)n2c2ccc(cc2C(c2ccc(cc2)[Cl])=N1)OC)=O

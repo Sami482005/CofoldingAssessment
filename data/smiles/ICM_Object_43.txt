@@ -1,0 +1,1 @@
+C1C[C@@]2(CN(C1)C(c1cnn(c3ccccc3)c1N)=O)c1c(ccc(c1F)[Cl])NC(=O)O2

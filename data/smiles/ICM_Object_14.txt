@@ -1,0 +1,1 @@
+C[C@H]1CN(C[C@@H](C)N1C)c1ccc(cc1NC(C1=CNC(C=C1C(F)(F)F)=O)=O)c1cc(ccc1F)C(NCCCCNc1ccc(c2c1non2)N(=O)=O)=O
